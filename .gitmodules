@@ -1,0 +1,3 @@
+[submodule "arduino-bedroom-light-controller"]
+	path = arduino-bedroom-light-controller
+	url = https://github.com/tauber-s/arduino-bedroom-light-controller
